@@ -15,9 +15,9 @@ s_out=40
 max_epoch=225
 l_list=[0,8,14,20,24,28,34,38,42,44,46, 48]
 
-datapath='/home/mcg/Data/LSUN/data'
-datadir='/home/mcg/Data/LSUN/data/training_data'
-val_datadir='/home/mcg/Data/LSUN/data/validation_data'
+datapath='../data'
+datadir='../data/training_data'
+val_datadir='../data/validation_data'
 
     
 def train(args):

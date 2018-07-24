@@ -6,11 +6,11 @@ import cv2
 import scipy.io as sio
 import scipy.misc as smc
 
-im_path='/home/mcg/Data/LSUN/data/images'
-mat='/home/mcg/Data/LSUN/data/training.mat'
-#test_mat='/home/mcg/Data/LSUN/data/validation.mat'
-outpath='/home/mcg/Data/LSUN/data/training_data'
-#outpath='/home/mcg/Data/LSUN/data/validation_data'
+im_path='../data/images'
+mat='../data/training.mat'
+#test_mat='../data/validation.mat'
+outpath='../data/training_data'
+#outpath='../data/validation_data'
 s=320
 out_s=40
 l_list=[0,8,14,20,24,28,34,38,42,44,46]
