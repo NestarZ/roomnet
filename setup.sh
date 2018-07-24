@@ -1,4 +1,5 @@
 mkdir data && cd data
+#https://github.com/nafmichael/lsun-room
 wget http://lsun.cs.princeton.edu/challenge/2015/roomlayout/data/image.zip
 wget http://lsun.cs.princeton.edu/challenge/2015/roomlayout/data/training.mat
 wget http://lsun.cs.princeton.edu/challenge/2015/roomlayout/data/validation.mat
